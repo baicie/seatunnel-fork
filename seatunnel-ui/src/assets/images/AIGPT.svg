@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>aiicon</title>
+    <defs>
+        <circle id="path-1" cx="50" cy="50" r="50"></circle>
+        <radialGradient cx="45.4142381%" cy="65.6835206%" fx="45.4142381%" fy="65.6835206%" r="49.8662164%" id="radialGradient-3">
+            <stop stop-color="#00A5E8" offset="0%"></stop>
+            <stop stop-color="#09E3E8" offset="55.0736208%"></stop>
+            <stop stop-color="#00D2D7" stop-opacity="0.496148383" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="45.4142381%" cy="65.6835206%" fx="45.4142381%" fy="65.6835206%" r="49.8662164%" id="radialGradient-5">
+            <stop stop-color="#00A5E8" offset="0%"></stop>
+            <stop stop-color="#00D2D7" offset="73.3118444%"></stop>
+            <stop stop-color="#00D2D7" stop-opacity="0.496148383" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-37.0%" y="-37.0%" width="174.1%" height="174.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="45.4142381%" cy="65.6835206%" fx="45.4142381%" fy="65.6835206%" r="49.8662164%" id="radialGradient-7">
+            <stop stop-color="#6D79FF" offset="0%"></stop>
+            <stop stop-color="#9689F9" offset="73.3118444%"></stop>
+            <stop stop-color="#9689F9" stop-opacity="0.496148383" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="45.3647017%" cy="65.1149263%" fx="45.3647017%" fy="65.1149263%" r="49.2954683%" id="radialGradient-9">
+            <stop stop-color="#3653E3" offset="0%"></stop>
+            <stop stop-color="#327BEE" offset="73.3118444%"></stop>
+            <stop stop-color="#327BEE" stop-opacity="0.496148383" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AI入口" transform="translate(-67.000000, -237.000000)">
+            <g id="椭圆形" transform="translate(67.000000, 237.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <circle fill="url(#radialGradient-3)" filter="url(#filter-4)" mask="url(#mask-2)" cx="86" cy="65" r="50"></circle>
+                <circle id="椭圆形备份-3" fill="url(#radialGradient-5)" filter="url(#filter-6)" mask="url(#mask-2)" cx="22.5" cy="21.5" r="40.5"></circle>
+                <circle id="椭圆形备份" fill="url(#radialGradient-7)" filter="url(#filter-8)" mask="url(#mask-2)" cx="80" cy="5" r="50"></circle>
+                <circle id="椭圆形备份-2" fill="url(#radialGradient-9)" filter="url(#filter-10)" mask="url(#mask-2)" cx="17" cy="59" r="50"></circle>
+                <path d="M73.1846412,63.3789063 C60.7258048,70.3931763 52.9760792,72.9068975 54.9738838,80.8651851 C56.9716884,88.8234727 61.7795919,107.152426 61.7795919,107.152426 L37.7400748,107.152426 C37.7400748,107.152426 42.5479782,88.8234727 44.5457828,80.8651851 C46.5435875,72.9068975 38.7938619,70.4041532 26.3350254,63.3789063 C13.2724568,56.0243508 13.9310737,33.3789063 13.9310737,33.3789063 C15.3361231,36.9793453 21.329537,45.5852729 35.9398553,45.5852729 C49.1012164,45.5852729 49.7598333,50.9530007 49.7598333,52.0067877 C49.7598333,52.1275341 49.7488564,52.1824189 49.7488564,52.1824189 L49.7598333,52.1824189 C49.7598333,52.1824189 49.7488564,52.1165572 49.7488564,52.0067877 C49.7488564,50.9530007 50.3964964,45.5852729 63.5688344,45.5852729 C70.8136204,45.5852729 75.9398553,43.4667218 79.4415018,40.8981159 C82.9980331,38.2856022 84.8750913,35.1901027 85.5885929,33.3789063 C85.5885929,33.3789063 86.2472099,56.0133739 73.1846412,63.3789063 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
